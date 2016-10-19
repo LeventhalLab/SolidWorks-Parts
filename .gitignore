@@ -1,0 +1,14 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!/Skull Guide Rev1
+!/Multidrive Rev3
+!/Multidrive Rev4
+!/Matrix Drive Rev1
+!/Matrix Drive Rev2
+!/Skull Guide Rev1
+
+*.avi
+Thumbs.db
